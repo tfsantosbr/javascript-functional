@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-tests",
+  "version": "1.0.0",
+  "description": "Repositório de estudos sobre RXJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfsantosbr/rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfsantosbr/rxjs/issues"
+  },
+  "homepage": "https://github.com/tfsantosbr/rxjs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
